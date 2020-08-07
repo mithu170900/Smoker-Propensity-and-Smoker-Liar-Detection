@@ -1,5 +1,7 @@
 # Smoker-Propensity-and-Smoker-Liar-Detection
-Internship Project: Built a predictive classification model in Python to detect smoker propensity and liar detection using life underwriting data
+Internship Project: Built a predictive classification model in Python to detect smoker propensity and liar detection using underwriting data
+
+Disclaimer: For confidential reasons, the project here will only show generalized codes and contain no confidential information about the company and the final results.
 
 ### Project details
 In this project, we have two different models: smoker propensity model and smoker liar detection model. The smoker propensity model can predict which applicant is more likely to be a smoker. Meanwhile, the smoker liar model can predict which applicant is more likely to be a smoker liar, which is an applicant who lies about their tobacco use. 
