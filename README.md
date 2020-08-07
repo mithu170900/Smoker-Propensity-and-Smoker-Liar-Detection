@@ -14,7 +14,7 @@ Two models share similar model characteristics. We use the same performance metr
 6) Experiementation
 
 ### Problem definition
-In life insurance, it is critical to obtain accurate knowledge of an individual’s tobacco use in assessing mortality risks as smoking increases the risk of cardiovascular diseases, cancers, and other illnesses. Rely solely on the self-reported smoking status poses a problem with insurance fraud as some applicants may be motivated to give false information about their tobacco use to get better insurance coverage. Therefore, in this project, we aim to build two models, one will detect the probability that an applicant is a smoker while the other one will find the probability that an applicant lies about their tobacco use. 
+In life insurance, it is essentail to obtain accurate knowledge of an individual’s smoking status in assessing mortality risks as smoking increases the risk of cardiovascular diseases, cancers, and other illnesses. Relying solely on the self-reported smoking status poses a problem with insurance fraud as some applicants may be motivated to give false information about their tobacco use to get better insurance coverage. Therefore, in this project, we aim to build two models, one will detect the probability that an applicant is a smoker while the other one will find the probability that an applicant lies about their tobacco use. 
 
 As we are moving towards a more data-driven automated process, these two models will serve as a safety net to reduce the risks a company will have to go through if applicants are motivated to give false information about their smoking status. These two models will prevent people from sneaking through the automated process.
 
